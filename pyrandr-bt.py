@@ -236,6 +236,6 @@ def run(args):
         user_list()
     return
 
-run(['-c'])
+
 if __name__=='__main__':
     run(sys.argv[1:])
