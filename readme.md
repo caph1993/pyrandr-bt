@@ -4,7 +4,7 @@ Protect your eyes. Manage your screen brightness and temperature using randr. **
 
 This script lets you modify the software brightness and [temperature](https://en.wikipedia.org/wiki/Color_temperature) manually from the command line. You can assign it to a global hotkey for ease of access.
 
-For the hardware brightness, also called backlight, check out `xbacklight`.
+For the hardware brightness, also called backlight, check out `brightnessctl`.
 
 ## Why?
 
