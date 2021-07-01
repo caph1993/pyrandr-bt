@@ -16,9 +16,9 @@ For the hardware brightness, also called backlight, check out `brightnessctl`.
 
 ## How to use?
 
-Install `python3-xlib`, copy the script `pyrandr-bt.py` and run it with `python3 pyrandr-bt.py`. You will see the available commands.
+Install `python3-xlib`, copy the script `pyrandr-bt.py` and run it with `python3 pyrandr-bt.py`. You will see the available arguments.
 
-The `-c` (combined) function makes it simple to make the screen
+Particularly, the `-c` argument alters both brightness and temperature (`c`ombined). You can use it to make the screen
 
  - 'darker and warmer' (`python3 pyrandr-bt.py -c -5`), or
  - 'lighter and cooler (white)' (`python3 pyrandr-bt.py -c +5`).
