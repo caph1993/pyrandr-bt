@@ -11,7 +11,7 @@ For the hardware brightness, also called backlight, check out `brightnessctl`.
  - We spend many hours on the screen.
  - Screens are too bright, even on 1% backlight.
  - `xrandr` supports brightness but not temperature (the gamma function is terrible)
- - `redshift` supports setting both, but not reading, increasing or decreasing. Forhtermore, it has tons of dependencies and uses your location by default. It's too complex for such a simple task.
+ - `redshift` supports setting both, but not reading, increasing or decreasing. Furthermore, it has tons of dependencies and uses your location by default. It's too complex for such a simple task.
  - No other open source software is available.
 
 ## How to use?
