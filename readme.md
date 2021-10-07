@@ -1,4 +1,13 @@
-# PyRandr-BT
+
+# Moved to [xscreenfilter](https://github.com/caph1993/xscreenfilter)
+
+This project has been moved to a new repository: [xscreenfilter](https://github.com/caph1993/xscreenfilter).
+
+The new repository supports installation through pip.
+
+---
+
+# OLD readme of PyRandr-BT
 
 Protect your eyes. Manage your screen brightness and temperature using randr. **(for linux systems)**
 
